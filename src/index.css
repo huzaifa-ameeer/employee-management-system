@@ -1,0 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Space+Grotesk:300,regular,500,600,700);
+@import "tailwindcss";
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+}
