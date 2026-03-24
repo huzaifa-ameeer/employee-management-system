@@ -6,6 +6,7 @@ const EmployeeDashboard = () => {
   return (
     <div className='p-10 h-screen'>
       <Header/>
+      <TaskListNumbers/>
     </div>
   )
 }
